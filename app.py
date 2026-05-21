@@ -452,15 +452,12 @@ elif nav == "🗺️ Zone Intelligence":
         }
         rcolors = ["#1F6FEB", "#D29922", "#F85149"]
         for (zone_lbl, vals), col in zip(radar_data.items(), rcolors):
+            r, g, b = int(col[1:3], 16), int(col[3:5], 16), int(col[5:7], 16)
             fig_radar.add_trace(go.Scatterpolar(
                 r=vals + [vals[0]], theta=categories + [categories[0]],
                 fill="toself", name=zone_lbl, line=dict(color=col),
-                fillcolor=col.replace("#", "rgba(") + ",0.12)".replace("rgba(", "rgba(").replace(",0.12)", ",0.12)"),
+                fillcolor=f"rgba({r},{g},{b},0.15)",
             ))
-        # Fix fillcolor properly
-        for trace, col in zip(fig_radar.data, rcolors):
-            r, g, b = int(col[1:3], 16), int(col[3:5], 16), int(col[5:7], 16)
-            trace.fillcolor = f"rgba({r},{g},{b},0.15)"
         fig_radar.update_layout(**PLTARGS, height=360, title="Zone Comparison Radar",
                                 polar=dict(radialaxis=dict(visible=True, range=[0, 110], gridcolor="#21262D"),
                                            bgcolor="rgba(28,35,51,0.4)"))
