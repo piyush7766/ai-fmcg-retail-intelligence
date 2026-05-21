@@ -1,0 +1,41 @@
+Column,Dtype,Non-Null,Null,Null_%,Unique
+Sr. No.,int64,500,0,0.0,500
+Data Source,object,500,0,0.0,2
+Shop Name,object,489,11,2.2,472
+Contact / Owner,object,451,49,9.8,427
+WhatsApp Number,float64,477,23,4.6,463
+Area / Locality,object,496,4,0.8,308
+Zone,object,500,0,0.0,6
+Store Type,object,500,0,0.0,5
+Years Operating,object,500,0,0.0,4
+Has Refrigerator,object,500,0,0.0,3
+ADA / Distributor,object,498,2,0.4,47
+Brands Stocked,object,500,0,0.0,25
+Stocks Amul C&T,object,500,0,0.0,2
+Aware of Amul C&T,object,500,0,0.0,3
+Why Not Stocking C&T,object,146,354,70.8,13
+C&T SKU Mix (80g / 180g / 850g),object,76,424,84.8,8
+C&T Estimated Packs / Week,object,74,426,85.2,4
+Amul Masti Dahi Packs / Week (est.),object,500,0,0.0,4
+Pack Sizes Most in Demand,object,500,0,0.0,7
+Packaging Format Preferred,object,500,0,0.0,5
+#1 Selling Dahi Brand at Store,object,500,0,0.0,9
+"Brand Ranking (brands stocked, by volume)",object,500,0,0.0,25
+Amul Dahi Sales Change vs 1 Year Ago,object,500,0,0.0,4
+Primary Reason Customers Choose Competitor,object,500,0,0.0,16
+Customers Ask for Amul Dahi by Name,object,500,0,0.0,5
+Customers Ask for Other Brand by Name,object,31,469,93.8,10
+Margin on Amul Dahi (from price list),object,500,0,0.0,2
+Best Trade Promotions Brand,object,500,0,0.0,12
+Branded Display / Fridge Provided By,object,142,358,71.6,6
+Best Rep Visits Brand,object,500,0,0.0,15
+Best Shelf Life / Freshness Brand,object,500,0,0.0,5
+Preferential Shelf Placement Brand,object,500,0,0.0,5
+Biggest 6-Month Growth Brand,object,500,0,0.0,10
+Trade Promotions Received on Amul Dahi,object,500,0,0.0,2
+Amul Rep Visit Frequency,object,500,0,0.0,4
+Customer Complaints About Amul Dahi,object,500,0,0.0,29
+Customer Feedback on Amul C&T Specifically,object,500,0,0.0,28
+Suggested Changes / Improvements for Amul,object,500,0,0.0,31
+Other Feedback for Amul,object,27,473,94.6,27
+Timestamp,object,40,460,92.0,40

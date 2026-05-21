@@ -1,0 +1,492 @@
+Sr. No.,Shop Name,zone_clean,store_type_clean,feat_refrigerator_flag,feat_dedicated_fridge,feat_awareness_score,feat_rep_visit_score,feat_promo_bonus,feat_engagement_score,feat_infrastructure_score,feat_competitor_presence,feat_frubon_threat_score,feat_ct_weekly_volume,feat_masti_weekly_volume,feat_years_operating_num,feat_adoption_likelihood
+1,Nita Dept Store,C_Scheme,Kiryana,1,0,0,3,0,3,1,1,3,0,35,2,3.25
+2,Giridhar Ice Cream Parlor,Amer_Periphery,Dairy_Parlour,1,0,0,2,0,2,1,1,3,0,75,2,2.92
+3,Dj Paneer House,Vaishali_Mansarovar,Kiryana,1,0,0,2,0,2,1,1,3,0,75,2,2.92
+4,Krishna Bakery,Vaishali_Mansarovar,Bakery,1,0,3,2,0,2,1,1,3,0,35,2,6.42
+5,Govinda Farms Cakes And Bakes,Vaishali_Mansarovar,Supermarket,1,1,1,2,2,4,2,1,3,0,75,4,7.0
+6,Ganapati Milk Point,Vaishali_Mansarovar,Kiryana,1,1,3,2,2,4,2,1,0,150,35,4,9.33
+7,Laziz Bakers,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,3,0,75,4,6.33
+8,Vijay Departmental Store,Malviya_Sanganer,Kiryana,1,1,3,4,0,4,2,1,2,150,150,4,9.33
+9,Shriram Departmental Store,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,3,0,150,4,6.33
+10,Dahiya General Store,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,3,0,35,1,5.21
+11,Shiva General,Malviya_Sanganer,Kiryana,0,0,0,2,0,2,0,1,3,0,150,3,1.79
+12,Raj Parlor,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,3,0,150,4,6.33
+13,Sharma Tea Stall,Vaishali_Mansarovar,Tea_Stall,0,0,1,2,0,2,0,1,3,0,35,2,2.58
+14,Nandini Sharma Store,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,3,0,150,3,5.96
+15,Mahaveer Dairy,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,3,0,150,2,5.58
+16,Laxmi Sales,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,1,0,75,3,4.79
+17,Kisan Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,1,0,150,4,5.17
+18,Oarnami Supermarket,Vaishali_Mansarovar,Supermarket,1,1,1,2,0,2,2,1,2,0,75,4,6.33
+19,Anjali Kirana,Vaishali_Mansarovar,Kiryana,1,1,3,2,0,2,2,0,0,75,75,4,8.67
+20,Tanishka Milk Parlor,Vaishali_Mansarovar,Kiryana,1,1,3,2,0,2,2,1,3,150,150,4,8.67
+21,Satyam Departmental Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,0,0,150,150,1,7.54
+22,Mahadev Bakery And Dairy,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,35,1,5.21
+23,Ss Mart,Amer_Periphery,Supermarket,1,1,1,2,0,2,2,0,0,0,350,4,6.33
+24,Eat N Treats,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,75,1,5.21
+25,Roshan Fresh,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,350,2,5.58
+26,Guru Kripa Laksh General Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,150,2,5.58
+27,Ss Kirana,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,0,0,150,2,7.92
+28,Dadu Dayal Bakery,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,0,75,150,2,7.92
+29,Goyal Dept Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,75,4,6.33
+30,Ashapura Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,0,0,0,75,3,5.96
+31,Adarsh Kirana,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,0,0,35,3,5.96
+32,Yogesh Ghar Saman,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,0,0,150,2,5.58
+33,Parvati Kirana,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,0,0,0,75,2,5.58
+34,Satnam Namkeen,Malviya_Sanganer,Kiryana,1,1,3,2,0,2,2,1,2,75,35,2,7.92
+35,Njoy Scoops Corner,Malviya_Sanganer,Dairy_Parlour,1,1,1,2,0,2,2,0,0,0,75,2,5.58
+36,Manish Kirana,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,0,0,75,2,5.58
+37,Shree Ram Traders,Malviya_Sanganer,Kiryana,1,1,3,2,0,2,2,0,0,10,75,3,8.29
+38,Kailash Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,75,2,5.58
+39,Dev Khush General Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,1,4.04
+40,Lalitha Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,75,2,5.58
+41,Fresh Active,Amer_Periphery,Supermarket,1,1,1,1,0,1,2,1,0,0,150,4,6.0
+42,Ashapura Deptartmental Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,2,0,75,4,4.83
+43,,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,0,35,75,2,7.92
+44,Kamal General,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,0,0,75,4,6.0
+45,Sharma Kirana,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,350,4,5.17
+46,Laxmi Kirana & General Store,Malviya_Sanganer,Kiryana,1,1,1,3,0,3,2,1,0,0,35,3,6.29
+47,Janvi Kirana Strore,Malviya_Sanganer,Kiryana,1,1,1,2,2,4,2,1,0,0,75,4,7.0
+48,Sadiqi Kirana Store,Old_City,Kiryana,1,1,0,3,0,3,2,1,0,0,350,3,5.12
+49,Pankaj Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+50,Vyas Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,0,0,75,4,5.83
+51,Siddhi Vinayak,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,35,4,5.17
+52,Ganpati Kirana,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,0,0,35,4,6.67
+53,Mammas,Malviya_Sanganer,Kiryana,1,1,1,2,2,4,2,1,2,0,150,4,7.0
+54,,Amer_Periphery,Kiryana,1,1,0,4,2,6,2,1,3,0,75,3,6.12
+55,Mahboob Bhai Kirana Store,Old_City,Kiryana,1,1,3,3,2,5,2,0,0,35,75,2,8.92
+56,Sani Juice Center,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,150,4,5.17
+57,Vikash Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+58,Radha Govind,C_Scheme,Kiryana,1,1,0,2,0,2,2,1,3,0,350,4,5.17
+59,Tulsi Ram,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,75,4,6.33
+60,Arun Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,3,4.79
+61,Roshan Sabji,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,0,0,0,35,1,5.21
+62,Unique Deptartmental Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+63,Khandelwal Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,2,0,150,3,5.79
+64,Rekha Kirana Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,2,35,150,4,8.67
+65,Vinayak Kirana Store,Malviya_Sanganer,Kiryana,1,1,0,2,0,2,2,1,3,0,75,2,4.42
+66,Anshul Department Store,Amer_Periphery,Supermarket,1,1,3,2,0,2,2,1,1,10,75,3,8.29
+67,Shree Gangesh Griraj Provision Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,75,4,5.17
+68,Tathastu Milk Parlour Beverage,Amer_Periphery,Dairy_Parlour,1,1,0,3,0,3,2,1,2,0,150,4,5.5
+69,Ratanlal Surendra Kumar,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,3,10,75,4,8.67
+70,Om Shiv Trading,Jhotwara_Murlipura,Kiryana,1,1,0,2,0,2,2,1,1,0,75,4,5.17
+71,Raj Shree,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,75,4,4.83
+72,Radhaswami Kirana,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,350,3,5.96
+73,Mahalaxmi Kirana Store 4C,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,0,0,35,2,5.25
+74,Shivam General Store,Malviya_Sanganer,Kiryana,1,1,0,3,0,3,2,1,3,0,75,2,4.75
+75,Bhavani Bakery,Malviya_Sanganer,Bakery,1,1,0,1,2,3,2,1,1,0,350,3,5.12
+76,Nand Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,3,3,0,3,2,1,1,10,75,2,8.25
+77,Shyam Kirana & Genral Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,35,1,4.38
+78,Jain Kirana Store,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,1,0,150,4,6.67
+79,Shree Shyam General Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,35,3,4.79
+80,Prem Departmantal Store,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,0,0,350,4,5.83
+81,Patwari Kirana & Genral Store,Jhotwara_Murlipura,Kiryana,1,1,0,2,0,2,2,1,1,0,75,3,4.79
+82,Amul Parlour,C_Scheme,Dairy_Parlour,1,1,1,4,0,4,2,1,3,0,75,4,7.0
+83,Khandewal Canteen,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,1,0,75,4,6.33
+84,Kushal Genral Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,1,0,150,4,5.83
+85,Morwal Kirana,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,150,2,5.58
+86,Shiv Milk,Malviya_Sanganer,Kiryana,1,1,1,3,0,3,2,1,0,0,75,4,6.67
+87,Kesri Store,Malviya_Sanganer,Kiryana,1,1,0,2,2,4,2,1,0,0,35,2,5.08
+88,Harsh Trading,Vaishali_Mansarovar,Kiryana,1,1,1,3,2,5,2,1,2,0,75,4,7.33
+89,Radha Krishna Bakery,Malviya_Sanganer,Bakery,1,1,1,3,0,3,2,1,1,0,150,3,6.29
+90,Deepak Tea,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,2,0,150,4,5.83
+91,Devashish Enterprises,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,3,0,75,4,6.33
+92,Jai Ambay Kirana,Amer_Periphery,Kiryana,1,1,3,2,2,4,2,1,0,10,75,2,8.58
+93,Poonam Goras,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,1,0,350,4,5.83
+94,Durga General Store,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,0,0,150,1,5.21
+95,Ridhi Sidhi Deprt. Store 2,Vaishali_Mansarovar,Kiryana,1,1,1,2,2,4,2,1,3,0,35,4,7.0
+96,Kailash Kirana,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,350,4,5.17
+97,Saini Floor Mill,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,75,3,5.12
+98,Banbari Dood Bhandar,Amer_Periphery,Dairy_Parlour,1,1,0,1,0,1,2,1,2,0,35,3,4.46
+99,Priyag Kirana & Genral Store,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,3,0,75,3,5.79
+100,Shri Khandelwal Store,Vaishali_Mansarovar,Kiryana,1,1,0,1,0,1,2,1,2,0,150,4,4.83
+101,Kanha Departmental Store,Jhotwara_Murlipura,Supermarket,1,1,3,2,2,4,2,1,0,75,75,4,9.33
+102,S.K Kirana,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,1,0,75,3,5.12
+103,Amit Computers,Jhotwara_Murlipura,Kiryana,1,1,1,2,0,2,2,1,1,0,350,4,6.33
+104,Agrawal Kirana & Genral Store,Jhotwara_Murlipura,Kiryana,1,1,3,2,0,2,2,1,1,10,75,4,8.67
+105,Om Brothers Kirana & General Store,Jhotwara_Murlipura,Kiryana,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+106,Atul Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,150,4,5.17
+107,,Malviya_Sanganer,Kiryana,1,1,3,2,0,2,2,1,0,35,75,1,7.54
+108,Mehta Kirana Store,Malviya_Sanganer,Kiryana,1,1,0,2,2,4,2,1,2,0,75,4,5.83
+109,Riddhi Provision Store,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,1,0,75,3,5.96
+110,Pooja Kirana,Vaishali_Mansarovar,Kiryana,1,1,0,1,0,1,2,0,0,0,150,4,4.83
+111,Agrawal Kirana & Gen. Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,3,0,75,2,4.42
+112,48 Number Canteen,Malviya_Sanganer,Kiryana,1,1,0,1,0,1,2,1,2,0,75,3,4.46
+113,Bismilla Restaurent,Old_City,Supermarket,1,1,0,2,0,2,2,1,1,0,75,3,4.79
+114,Ishika Bakers,Malviya_Sanganer,Bakery,1,1,0,2,0,2,2,1,1,0,75,4,5.17
+115,J.K Amul Parlour,Amer_Periphery,Dairy_Parlour,1,1,0,2,2,4,2,1,2,0,75,3,5.46
+116,Kamal Dairy,Amer_Periphery,Dairy_Parlour,1,1,1,2,0,2,2,1,2,0,350,4,6.33
+117,Kamal Sweets,Jhotwara_Murlipura,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,75,1,4.04
+118,Shree Krishna Mishthan Bhandar,Amer_Periphery,Dairy_Parlour,1,1,0,3,0,3,2,1,3,0,75,3,5.12
+119,Jain Sabji,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,150,3,4.79
+120,Shiv Shakti Bakers,Malviya_Sanganer,Bakery,1,1,0,3,0,3,2,1,2,0,150,4,5.5
+121,Ramkumar Kirana Store,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,1,0,75,4,6.67
+122,Jai Sai Ice Creame,Vaishali_Mansarovar,Kiryana,1,1,3,2,0,2,2,1,1,10,35,4,8.67
+123,Agrawal Kirana & Gen. Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,2,10,150,4,8.67
+124,Agarwal Kirana,Jhotwara_Murlipura,Kiryana,1,1,0,1,0,1,2,1,3,0,75,2,4.08
+125,Salasar Departmental Store,Jhotwara_Murlipura,Supermarket,1,1,3,3,0,3,2,1,2,75,75,4,9.0
+126,Vashu Amul Parlour,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,1,0,1,2,1,2,0,150,2,4.08
+128,Sharma Kirana Store,C_Scheme,Kiryana,1,1,0,4,0,4,2,1,0,0,75,4,5.83
+130,Sunita Trading,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,1,0,150,1,4.38
+131,Sonkiya Genral Store,Vaishali_Mansarovar,Kiryana,1,1,0,1,2,3,2,1,2,0,150,2,4.75
+132,Bharat Traders (Khandelwal)Anajmandi,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+133,Hansram Gujjar Home Delivery,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,1,0,350,2,4.42
+134,Pareek Kirana Store,Malviya_Sanganer,Kiryana,1,1,1,2,2,4,2,1,3,0,35,1,5.87
+135,Radha Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,1,0,75,2,5.58
+136,Kanha Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,2,0,150,2,4.08
+137,Agarwal Departmental Store,Amer_Periphery,Supermarket,1,1,0,4,0,4,2,1,0,0,75,3,5.46
+138,Yadav Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,3,0,150,4,5.83
+139,Mridul Enterprises,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,75,4,5.17
+140,Sankar Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,150,3,4.79
+141,Grhanidhi,Malviya_Sanganer,Kiryana,1,1,0,1,0,1,2,1,1,0,35,3,4.46
+142,Poonam Bakery,Amer_Periphery,Bakery,1,1,0,2,0,2,2,1,0,0,75,1,4.04
+143,Anjali Provision Store,Amer_Periphery,Kiryana,1,1,3,1,0,1,2,1,1,75,35,3,7.96
+144,,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,0,0,0,35,3,5.79
+145,Ashok Kumar & Company,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+146,Gurukripa General And Kirana Store,Amer_Periphery,Kiryana,1,1,0,1,2,3,2,1,0,0,35,4,5.5
+147,Rashid Badshah,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,0,0,150,1,4.71
+148,Noor Store,Jhotwara_Murlipura,Kiryana,1,1,3,2,2,4,2,1,2,75,150,2,8.58
+149,Shree Balaji Department Store,Amer_Periphery,Supermarket,1,1,0,3,0,3,2,1,0,0,75,4,5.5
+150,Janpath Departmental Store,Malviya_Sanganer,Supermarket,1,1,0,3,2,5,2,1,3,0,35,4,6.17
+151,J.K Provision Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,350,4,4.83
+152,Meenu,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,35,4,6.33
+153,Garima General Store,Jhotwara_Murlipura,Kiryana,1,1,3,3,0,3,2,1,0,10,150,3,8.62
+154,Shree Ji Provision Store,Malviya_Sanganer,Kiryana,1,1,3,1,2,3,2,1,1,35,35,4,9.0
+155,Dinesh General Store,Malviya_Sanganer,Kiryana,1,1,1,3,0,3,2,1,3,0,350,4,6.67
+156,Kalyan Departmental Store,Vaishali_Mansarovar,Supermarket,1,1,1,2,0,2,2,1,3,0,150,3,5.96
+157,Hariyali Bajaar,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,350,4,5.17
+158,Indian Restaurent,Amer_Periphery,Supermarket,1,1,1,3,0,3,2,1,3,0,75,2,5.92
+159,Vinod Kirana Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,350,4,4.83
+160,Ananda Departmental Store,Amer_Periphery,Supermarket,1,1,0,3,0,3,2,1,3,0,150,3,5.12
+161,Kasliwal Provision Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,35,2,5.58
+162,Mukesh Kirana Store,Malviya_Sanganer,Kiryana,1,1,0,2,2,4,2,1,2,0,75,4,5.83
+163,Shiv Kirana Store,Malviya_Sanganer,Kiryana,1,1,0,3,0,3,2,1,0,0,75,4,5.5
+164,Janki Raman Gautam,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,3,0,150,4,4.83
+165,Ekata Enterprises,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,3,0,150,3,5.62
+166,Janana Hospital Canteen,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,0,0,150,3,5.46
+167,Nilam General Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,0,0,75,3,5.12
+168,Choudhary Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,2,0,150,4,6.0
+169,Ganpati Department Store,Amer_Periphery,Supermarket,1,1,0,1,0,1,2,1,3,0,150,1,3.71
+170,Choice Corner,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,3,0,150,2,4.75
+171,Devendra Colddrink,Amer_Periphery,Kiryana,1,1,1,4,2,6,2,1,0,0,75,3,7.29
+172,Ridhi Sidhi Deprt. Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,1,10,75,3,8.29
+173,R.K Comunication,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,3,0,35,4,6.33
+174,Shivam Amul Parlour,Amer_Periphery,Dairy_Parlour,1,1,0,2,0,2,2,1,3,0,150,4,5.17
+175,Mehta,Malviya_Sanganer,Kiryana,1,1,0,1,0,1,2,1,1,0,35,4,4.83
+176,Kumawat Provision Store,Jhotwara_Murlipura,Kiryana,1,1,3,3,0,3,2,1,0,75,35,4,9.0
+177,Om Kirana & General Store,Jhotwara_Murlipura,Kiryana,1,1,3,2,0,2,2,1,0,75,35,3,8.29
+178,Agarwal Kirana Store 2,Malviya_Sanganer,Kiryana,1,1,1,3,0,3,2,1,2,0,150,4,6.67
+179,Shree Shyam,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,150,2,4.42
+180,Rajesh(Saras),Vaishali_Mansarovar,Kiryana,1,1,1,1,0,1,2,1,0,0,75,1,4.87
+181,Singhal Departmental Store,Amer_Periphery,Supermarket,1,1,0,2,0,2,2,1,2,0,350,4,5.17
+182,Pooja Restaurant,Jhotwara_Murlipura,Supermarket,1,1,0,2,0,2,2,1,1,0,150,2,4.42
+183,Bansal Genral Store,Amer_Periphery,Kiryana,1,1,3,3,0,3,2,1,0,35,150,4,9.0
+184,Sai,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,35,1,4.04
+185,Khandelwal Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,1,3,0,3,2,1,1,0,150,4,6.67
+187,Kunwar Fancy Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,75,4,5.17
+188,Shiv Bhola Genral,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,350,4,6.33
+189,Pankaj Provision Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,35,4,5.17
+190,Hariom Prov.,Vaishali_Mansarovar,Kiryana,1,1,0,3,2,5,2,1,0,0,150,4,6.17
+191,Sonu Monu Kirana,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,3,0,350,4,6.33
+192,,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,1,0,35,2,5.92
+193,Goyal Kirana Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,3,0,150,4,4.83
+194,Nasir Kirana,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,1,0,75,4,5.83
+195,Sharma Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,3,2,2,4,2,1,2,10,150,3,8.96
+196,Vidhya Dept. Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,2,4,2,1,0,0,75,4,5.83
+197,Shree Shyam Provision Store,Vaishali_Mansarovar,Kiryana,1,1,3,2,0,2,2,1,2,10,150,4,8.67
+198,Gurukripa Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,0,1,0,1,2,1,0,0,75,4,4.83
+199,,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,2,35,350,3,8.29
+200,Laxmi Ice Cream,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,150,2,4.75
+202,Dahakd,Malviya_Sanganer,Kiryana,1,1,0,3,0,3,2,1,0,0,350,4,5.5
+203,Chanda Gen. Store,Vaishali_Mansarovar,Kiryana,1,1,0,4,0,4,2,1,0,0,75,4,5.83
+204,Shree Govindham,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,2,0,75,3,5.96
+205,Sangam Parlour,Vaishali_Mansarovar,Dairy_Parlour,1,1,1,1,2,3,2,1,3,0,75,4,6.67
+206,Sharma Deepa,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,0,10,75,4,8.67
+207,Saini Dhaba,Amer_Periphery,Supermarket,1,1,3,2,0,2,2,1,2,10,35,4,8.67
+208,Hemant Kirana,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,0,0,150,3,5.46
+209,Rathod General Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,3,0,150,3,5.62
+210,Rajat Genral Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,1,0,75,4,5.5
+211,Shri Ji Store,Vaishali_Mansarovar,Kiryana,1,1,0,1,0,1,2,1,1,0,75,3,4.46
+212,Mahaveer Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,75,2,4.42
+213,Balaji Departmental Store,Malviya_Sanganer,Supermarket,1,1,0,2,0,2,2,1,2,0,35,4,5.17
+214,Mahalaxmi Kirana Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,0,0,75,4,6.0
+215,Jaipur Dairy 2021,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,350,2,4.42
+216,Maa Jeen Ganral Store,Amer_Periphery,Kiryana,1,1,1,2,2,4,2,1,3,0,75,4,7.0
+217,Khandelwal Deparment Store,Vaishali_Mansarovar,Kiryana,1,1,3,2,2,4,2,1,3,10,150,2,8.58
+218,Lakshita Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,3,2,0,2,2,1,0,75,150,4,8.67
+219,Jai Mahakal Tea Stall,Malviya_Sanganer,Kiryana,1,1,0,2,0,2,2,1,3,0,75,2,4.42
+220,Shri Gokul Dairy,Amer_Periphery,Dairy_Parlour,1,1,3,3,0,3,2,1,2,10,150,4,9.0
+221,Bhag Chand,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,2,4.42
+222,Saini Dept. Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,2,0,35,3,4.79
+223,Lal General Store,Amer_Periphery,Kiryana,1,1,3,2,2,4,2,1,0,35,150,4,9.33
+224,Vans Kirana,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,0,0,150,1,4.87
+225,Laxmi Agencies,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,0,0,35,4,6.0
+226,Prahlad Rai,Malviya_Sanganer,Kiryana,1,1,0,2,2,4,2,1,2,0,75,1,4.71
+227,Purchuni General Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,350,3,5.96
+228,Shree Krishna Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,150,4,6.33
+229,Agarwal Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,35,3,5.12
+230,Aman Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,3,4,2,6,2,1,3,75,75,3,9.62
+231,Manglam Departmental Store,Jhotwara_Murlipura,Supermarket,1,1,3,1,0,1,2,1,0,75,75,4,8.33
+232,Mahesh Amul Dairy,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,150,2,4.42
+233,Laxmi Kirana And General Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,75,4,6.33
+234,,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,2,4.42
+235,Susgil Departmental,Amer_Periphery,Supermarket,1,1,0,3,0,3,2,1,1,0,75,4,5.5
+236,Roshani Bakery,Amer_Periphery,Bakery,1,1,0,2,0,2,2,1,2,0,150,3,4.79
+237,Sharma Tea,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,350,2,4.42
+238,G.M Marketing (Machiwal),Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+239,Harsh Kirana Store,Old_City,Kiryana,1,1,3,2,2,4,2,1,3,35,75,4,9.33
+240,,Vaishali_Mansarovar,Kiryana,1,1,1,4,0,4,2,1,2,0,75,3,6.62
+241,Sabji Bhandar,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,2,0,2,2,1,0,0,350,2,4.42
+242,Shri Ji Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,0,0,150,4,5.5
+243,Segeeta Provision Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,0,0,0,35,4,5.17
+244,Naman Kirana,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,35,3,5.96
+245,Rasiya Juice And Fast Food Centre,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,75,4,6.33
+246,Shri Balaji Dept Store,Malviya_Sanganer,Kiryana,1,1,3,1,0,1,2,1,2,10,35,4,8.33
+247,Jai Mata Di Sabji Bhandar,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,2,2,4,2,1,2,0,35,4,5.83
+248,Agarwal Provision,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,0,0,75,3,5.12
+249,Guman Ji Misthan Bhandar,Amer_Periphery,Dairy_Parlour,1,1,1,3,0,3,2,1,2,0,150,1,5.54
+250,Arihant Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,150,4,5.17
+251,Radha Govind Foods,Vaishali_Mansarovar,Kiryana,1,1,0,1,0,1,2,1,1,0,35,4,4.83
+252,Vijay Laxmi Kirana Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,35,2,4.08
+253,Vardhman Kirana & General Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,1,0,35,4,6.33
+254,Laxmi Communication,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,3,0,150,2,5.58
+255,Shri Krishna Mini Store,Malviya_Sanganer,Kiryana,1,1,0,2,0,2,2,1,2,0,150,3,4.79
+256,Arihant Bakers,Amer_Periphery,Bakery,1,1,0,2,0,2,2,1,2,0,150,1,4.04
+257,Gomti Dept.,Vaishali_Mansarovar,Kiryana,1,1,0,2,2,4,2,1,3,0,150,4,5.83
+258,Chopra Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,3,0,35,4,5.5
+259,Vinay Kirana And General Store,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,2,0,75,4,6.17
+260,Jagdish Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,2,0,75,3,5.46
+261,Mahaveer Provision Store,Malviya_Sanganer,Kiryana,1,1,1,3,0,3,2,1,3,0,35,2,5.92
+262,Chabbra Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,75,1,4.04
+263,Mishra Genral Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,3,0,150,2,4.75
+264,Jai Durga,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,2,0,350,3,5.96
+265,Bharti Store,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,2,0,75,4,6.33
+266,Shyam Kishore Rathi,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,350,3,4.79
+267,Shree Jagdamba Kirana Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,0,75,35,2,7.92
+269,Krishna Genral Store,Vaishali_Mansarovar,Kiryana,1,1,1,3,0,3,2,1,0,0,35,4,6.67
+270,Maha Laxmi,Amer_Periphery,Kiryana,1,1,1,2,2,4,2,1,2,0,75,4,7.0
+271,Ganesham Store,Malviya_Sanganer,Kiryana,1,1,1,3,2,5,2,1,3,0,150,4,7.33
+272,Ganesh Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,350,1,4.04
+273,Jai Shanker,Malviya_Sanganer,Kiryana,1,1,0,3,0,3,2,1,1,0,75,4,5.5
+274,Shree Balaji General Store,Amer_Periphery,Kiryana,1,1,3,2,2,4,2,1,2,10,75,3,8.96
+275,Jai Mata Di General Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,350,2,5.58
+276,Kisan Sabji Bhandar,Amer_Periphery,Dairy_Parlour,1,1,3,3,2,5,2,1,0,10,35,3,9.29
+277,Niraj Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,1,0,35,3,4.79
+278,Rajendra Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,35,2,4.42
+279,Cake Point,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,75,4,6.33
+280,Gupta Kirana & Genral Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,35,4,4.83
+281,D.K General Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+282,Lalit Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,150,3,5.12
+283,Tanwar Kirana And General Store,Jhotwara_Murlipura,Kiryana,1,1,0,2,0,2,2,1,0,0,35,4,5.17
+284,Virendra Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,2,4.42
+285,Jain Kirana Store,Amer_Periphery,Kiryana,1,1,3,3,0,3,2,0,0,10,150,3,8.62
+286,Shree Syam General Store,C_Scheme,Kiryana,1,1,3,2,0,2,2,1,1,10,150,2,7.92
+287,Radha Govind Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,0,1,0,1,2,1,0,0,150,3,4.46
+288,Ganesh Provision,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,35,2,4.42
+289,Krishna Kirana Store,Malviya_Sanganer,Kiryana,1,1,0,3,0,3,2,1,0,0,150,4,5.5
+290,Vijayvargi Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,35,4,5.17
+291,Komal Kirana,Amer_Periphery,Kiryana,1,1,1,4,0,4,2,1,2,0,150,3,6.62
+292,Mahadevan Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,0,0,0,75,4,5.5
+293,Om Kirana Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,1,35,35,4,8.67
+294,Diwanshu Dept Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,1,0,75,4,6.0
+295,Ravi Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,1,0,35,4,5.5
+296,Rajdhani Super Mart,Vaishali_Mansarovar,Supermarket,1,1,0,1,0,1,2,1,1,0,150,4,4.83
+297,Arihant Provision Store,Vaishali_Mansarovar,Kiryana,1,1,0,1,0,1,2,1,0,0,75,4,4.83
+298,Krishna Coldrinks,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,1,0,35,3,5.12
+299,Gulab Trading,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,0,0,75,4,6.67
+300,One Two Ka Four,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,3,0,75,4,5.83
+301,Sunshine Bakers,Amer_Periphery,Bakery,1,1,0,1,0,1,2,1,1,0,75,4,4.83
+302,Balaji Departmental Store,Jhotwara_Murlipura,Supermarket,1,1,3,1,0,1,2,1,1,75,75,2,7.58
+303,Shree Shyam Traders,Amer_Periphery,Kiryana,1,1,3,1,0,1,2,1,1,75,75,4,8.33
+304,Shree Ram General Store,Jhotwara_Murlipura,Kiryana,1,1,0,3,0,3,2,1,2,0,350,2,4.75
+305,Agarawal Kirana,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,75,3,5.96
+307,Bhagya Kirana Store,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,3,0,150,2,5.08
+308,M.P,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,2,0,75,3,5.79
+309,Ashoka General Store,Amer_Periphery,Kiryana,1,1,3,2,2,4,2,1,0,10,150,4,9.33
+310,Sanju Std,Amer_Periphery,Kiryana,1,1,1,4,0,4,2,1,1,0,75,4,7.0
+311,Jagdamba Dairy,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+312,Janvi Kirana Store,Malviya_Sanganer,Kiryana,1,1,1,4,0,4,2,1,1,0,150,2,6.25
+313,,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,2,0,35,4,5.17
+314,Shivom Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,1,2,2,4,2,1,1,0,75,4,7.0
+315,Ameen Kirana,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,0,0,75,4,5.83
+316,Sitaram,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,3,0,75,1,4.38
+317,Choudhary Milk,C_Scheme,Kiryana,1,1,1,2,0,2,2,1,2,0,75,2,5.58
+318,Neelam Amul,Amer_Periphery,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+319,Deepak Kirana Store,Malviya_Sanganer,Kiryana,1,1,3,3,2,5,2,1,0,10,150,1,8.54
+320,Balaji Kirana,Amer_Periphery,Kiryana,1,1,1,2,2,4,2,1,3,0,150,4,7.0
+321,Manju Kirana & Genral Store,Jhotwara_Murlipura,Kiryana,1,1,0,2,0,2,2,1,3,0,75,2,4.42
+322,Mohit Kirana & General Store,Jhotwara_Murlipura,Kiryana,1,1,3,2,0,2,2,1,0,75,75,3,8.29
+323,Choudhary Tea Stall,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,35,3,4.79
+324,Rohit Deparmental,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,150,4,6.33
+325,Shree Ganesh General Store,Amer_Periphery,Kiryana,1,1,1,4,0,4,2,1,1,0,350,4,7.0
+326,Ravi Brothers,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,0,0,0,350,4,5.17
+327,Shubhash Coldrinks,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,150,4,5.17
+328,Shubam,Malviya_Sanganer,Kiryana,1,1,0,3,0,3,2,1,0,0,75,4,5.5
+329,Ganesh Juice,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,75,2,5.58
+330,Amit Departmental Store,Amer_Periphery,Supermarket,1,1,0,2,0,2,2,1,3,0,75,2,4.42
+331,Sharma Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,2,4,2,1,3,0,75,4,7.0
+332,Mahaveer Mishtan Bhandar,Vaishali_Mansarovar,Dairy_Parlour,1,1,1,2,2,4,2,1,0,0,75,4,7.0
+333,Ark Entp.,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,3,0,350,4,5.5
+334,Vinayakn Deepa,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,35,4,5.17
+335,Arihant Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,3,2,0,2,2,1,2,75,35,4,8.67
+337,Govind Kirana,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,150,1,4.38
+338,Shri Ji Trading Company,Jhotwara_Murlipura,Kiryana,1,1,3,3,0,3,2,1,1,10,350,4,9.0
+339,,Amer_Periphery,Kiryana,1,1,3,3,0,3,2,1,3,35,75,4,9.0
+340,Pandit Restaurant,Amer_Periphery,Supermarket,1,1,0,2,0,2,2,1,3,0,75,4,5.17
+341,Shree Ji Provision,Vaishali_Mansarovar,Kiryana,1,1,3,3,0,3,2,1,0,10,75,3,8.62
+342,Sharma Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,3,3,0,3,2,1,0,75,75,4,9.0
+343,Lal Ji Sweets,Amer_Periphery,Dairy_Parlour,1,1,0,2,2,4,2,1,0,0,75,4,5.83
+344,A.V.Enterprises,Vaishali_Mansarovar,Kiryana,1,1,3,2,0,2,2,1,2,10,150,3,8.29
+345,Gupta Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,3,4.79
+346,Dhakad Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,75,2,4.75
+347,Farm Fresh,Amer_Periphery,Supermarket,1,1,0,1,2,3,2,1,1,0,350,4,5.5
+348,Radha Govind Departmental Store,Jhotwara_Murlipura,Supermarket,1,1,0,4,0,4,2,1,2,0,150,3,5.46
+349,Diksha Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,3,0,35,3,5.46
+350,Sharma Departmental Store,Malviya_Sanganer,Supermarket,1,1,1,3,0,3,2,1,0,0,75,3,6.29
+351,Yes 99 Café,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,75,3,5.12
+352,Raj Fancy Store,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,0,0,150,4,6.67
+353,Pink City Bakers,Amer_Periphery,Bakery,1,1,0,3,0,3,2,1,2,0,35,1,4.38
+354,I.G Kirana,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,0,0,35,3,6.29
+355,Shree Krishna Amul Parlour,C_Scheme,Dairy_Parlour,1,1,1,2,0,2,2,1,1,0,75,3,5.96
+356,Saras 2524,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,75,2,5.58
+357,Vijay Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,3,1,2,3,2,1,1,10,75,4,9.0
+358,Masso Lal Enterprises,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,35,2,4.08
+359,Mahi Enterprises,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,3,0,150,4,4.83
+360,Pooja Kirana,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,2,0,75,3,4.46
+361,Mama Tea Point,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,3,0,150,4,4.83
+362,Milk Point,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,3,0,75,3,5.79
+363,Agrawal Kirana,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,75,4,5.5
+364,Saraswati Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,2,0,75,4,5.83
+365,Annpurna Kirana General Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,2,0,75,3,5.96
+366,Hitesh Milk,Old_City,Kiryana,1,1,0,2,0,2,2,1,0,0,75,2,4.42
+367,Rajasthan Bakery,Amer_Periphery,Bakery,1,1,0,2,0,2,2,1,2,0,35,3,4.79
+368,Suman Saini (Agarwal Kirana),Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,0,0,75,4,6.67
+369,Vinayak Kitchen,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,2,0,75,4,6.0
+370,Shree Shyam Sweets,Malviya_Sanganer,Dairy_Parlour,1,1,1,1,0,1,2,1,0,0,35,1,4.87
+371,Balaji Departmental Store,Amer_Periphery,Supermarket,1,1,3,2,0,2,2,1,0,10,350,2,7.92
+372,Keshav Deprt Store,Amer_Periphery,Kiryana,1,1,3,4,0,4,2,1,1,10,150,4,9.33
+373,Saini Tea,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,75,2,4.42
+374,Jai Laxmi Fruits&Sabji Bhandar,Vaishali_Mansarovar,Dairy_Parlour,1,1,0,2,0,2,2,1,1,0,75,4,5.17
+375,Balaji Trading,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,3,0,75,3,5.62
+376,Shree Ram Dairy,Amer_Periphery,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+377,Shree Ram Dakad Kirana,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,3,0,75,4,5.83
+378,Radhika Bakers,Jhotwara_Murlipura,Bakery,1,1,0,1,0,1,2,1,2,0,350,4,4.83
+379,Radhika Sweets,Jhotwara_Murlipura,Dairy_Parlour,1,1,0,2,2,4,2,1,2,0,150,3,5.46
+380,Bhoomi Kirana,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,1,0,150,4,5.83
+381,Bajrang Bali Deptartmental Store,Amer_Periphery,Kiryana,1,1,1,4,0,4,2,1,2,0,75,4,7.0
+382,Asirwad Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+383,Anant Super Mart,Vaishali_Mansarovar,Supermarket,1,1,1,2,0,2,2,1,2,0,75,2,5.58
+384,Sms Tea & Genral Store,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,0,0,75,4,5.83
+385,Siddhi Vinayak Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,35,3,4.46
+386,Saleem Kirana Store,Amer_Periphery,Kiryana,1,1,3,3,0,3,2,1,2,35,75,4,9.0
+387,Sharma Canteen,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,3,4.79
+388,Brijdham Sweets,Malviya_Sanganer,Dairy_Parlour,1,1,0,2,0,2,2,1,3,0,75,4,5.17
+389,Hariyana Dairy,Amer_Periphery,Dairy_Parlour,1,1,0,2,0,2,2,1,2,0,150,4,5.17
+390,Sharma Kirana And General Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,75,3,4.46
+391,Ganapti Sales,Amer_Periphery,Kiryana,1,1,0,1,2,3,2,0,0,0,75,3,5.12
+392,Hari Tradres,Vaishali_Mansarovar,Kiryana,1,1,0,1,2,3,2,1,0,0,75,4,5.5
+393,R.R.K,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,150,3,4.46
+394,Balaji,Malviya_Sanganer,Kiryana,1,1,0,1,2,3,2,1,3,0,75,3,5.12
+395,Ritu Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,0,0,150,1,4.71
+396,Tanu Parlour,Jhotwara_Murlipura,Dairy_Parlour,1,1,0,3,0,3,2,1,3,0,75,1,4.38
+397,Omee Sabji Bhandar,Amer_Periphery,Dairy_Parlour,1,1,0,1,0,1,2,1,1,0,150,4,4.83
+398,Shubham Tea Stall,Jhotwara_Murlipura,Kiryana,1,1,1,2,0,2,2,1,3,0,350,2,5.58
+399,Shankar Kirana,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,35,4,5.17
+400,Salasar Departmental Store,Amer_Periphery,Supermarket,1,1,0,2,2,4,2,1,2,0,150,2,5.08
+401,Shinghal Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,2,4.42
+402,Chadda Std & Cold Drinks,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,150,2,4.42
+403,Jain Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,35,2,4.42
+404,Neeraj Kirana,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,0,0,350,3,5.12
+405,Natani Stationery,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,2,0,75,3,5.79
+406,The Best Seller,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,3,0,75,4,5.5
+407,Khandelwal Department,Malviya_Sanganer,Supermarket,1,1,1,2,0,2,2,1,3,0,75,4,6.33
+408,Mahaveer Provision,Vaishali_Mansarovar,Kiryana,1,1,1,2,0,2,2,1,0,0,35,4,6.33
+409,Tazza Fal Sabji,Vaishali_Mansarovar,Kiryana,1,1,1,4,2,6,2,1,2,0,75,2,6.92
+410,Siddhi Department,Malviya_Sanganer,Supermarket,1,1,1,2,0,2,2,1,2,0,350,2,5.58
+411,Gullu Di Hatti ( Season Ke Saudagar ),Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,2,0,150,4,6.0
+412,Ajnabi Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,2,4,2,1,2,0,75,2,5.08
+413,Baba Kirana Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,2,0,35,4,6.0
+414,Grah Suvidha General Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,350,2,4.75
+415,Vishnu Kirana,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,3,0,150,4,5.5
+416,Mahalaxmi Department Store,Vaishali_Mansarovar,Supermarket,1,1,0,1,0,1,2,1,3,0,150,3,4.46
+417,Taver Kirana,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,3,0,75,2,5.42
+419,Laxmi Kirana,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,2,0,75,1,4.71
+420,Honey Provision Store,Amer_Periphery,Kiryana,1,1,3,1,0,1,2,1,1,10,150,4,8.33
+421,Jai Mata Di Gen. Store,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,0,0,350,4,5.17
+422,Shyam Deptartmental Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,1,0,35,3,5.12
+423,Sai Communication,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,75,3,5.96
+424,Kaniram'S Sweet,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,75,4,5.17
+425,Shree Narayani General Store,Jhotwara_Murlipura,Kiryana,1,1,3,1,0,1,2,1,0,75,75,2,7.58
+426,Batra Provision Store,Malviya_Sanganer,Kiryana,1,1,1,2,0,2,2,1,1,0,350,2,5.58
+427,N.D Provision Store,Malviya_Sanganer,Kiryana,1,1,0,2,0,2,2,1,2,0,35,3,4.79
+428,Jain Padam Prabhu,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,1,0,150,4,5.17
+429,Bhumika Mobile Point,Amer_Periphery,Kiryana,1,1,1,2,2,4,2,1,2,0,150,4,7.0
+430,Govidham Deptartmental Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,1,4.04
+431,Om Sweet,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,1,0,150,4,5.5
+432,Lalita Kirana,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,75,2,5.58
+433,The Balaji Departmental Store,Malviya_Sanganer,Supermarket,1,1,0,3,0,3,2,1,0,0,150,4,5.5
+434,Choudhary Kirana Store,Jhotwara_Murlipura,Kiryana,1,1,3,1,0,1,2,1,2,10,150,3,7.96
+435,Gupta Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,75,4,6.33
+436,Ganesham,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,2,0,75,2,4.75
+437,The Classic Bakery,Amer_Periphery,Bakery,1,1,1,2,0,2,2,1,2,0,150,4,6.33
+438,M.D Juice,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,1,0,35,3,5.79
+439,Vijayvargiuya Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,3,0,150,3,5.79
+440,Shekhawat Kirana,Amer_Periphery,Kiryana,1,1,1,2,2,4,2,1,2,0,35,1,5.87
+441,Yadav Restaurant,Malviya_Sanganer,Supermarket,1,1,0,2,2,4,2,1,3,0,75,4,5.83
+442,Saini Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,1,0,0,75,1,4.38
+443,Jyoti Kirana And Jeneral Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,2,0,75,4,4.83
+444,Pankaj Kirana,Amer_Periphery,Kiryana,1,1,3,1,0,1,2,1,2,10,35,4,8.33
+445,Mukesh Kirana,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,3,10,75,3,8.29
+446,One Stop,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,0,0,75,4,5.5
+447,Kailas Colddrinks,C_Scheme,Kiryana,1,1,0,3,0,3,2,0,0,0,35,2,4.75
+448,Salim,Amer_Periphery,Kiryana,1,1,1,3,0,3,2,1,3,0,35,1,5.54
+449,Mahalaxmi Departmental Store,Jhotwara_Murlipura,Supermarket,1,1,3,2,0,2,2,1,3,75,35,3,8.29
+450,Gandwal Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,75,2,4.42
+451,Narsingh Deptartmental Store,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,3,0,75,2,5.08
+452,Amar Std,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,3,0,75,4,5.17
+453,K.K Sijan House,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,35,2,4.08
+454,Lalitesh Shekhawat,Jhotwara_Murlipura,Kiryana,1,1,0,2,2,4,2,1,2,0,350,4,5.83
+455,Vikas Kirana Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,150,2,4.42
+456,Ridhi Sidhi Deprt. Store 1,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+457,Shree Shyam Kirana,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,150,1,3.71
+458,Pradeep Prov.,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,1,0,150,4,5.17
+459,Annu Provision Store,Vaishali_Mansarovar,Kiryana,1,1,3,3,2,5,2,1,1,10,75,2,8.92
+460,Hari Deparmental Store,Amer_Periphery,Kiryana,1,1,0,1,2,3,2,1,2,0,75,2,4.75
+461,Govindam Restaurant,Amer_Periphery,Supermarket,1,1,0,2,0,2,2,1,2,0,150,4,5.17
+462,Rohit Provision & Genral Store,Jhotwara_Murlipura,Kiryana,1,1,0,4,0,4,2,1,1,0,35,4,5.83
+463,Tirupati Departmental Store,Amer_Periphery,Supermarket,1,1,1,2,0,2,2,1,2,0,35,4,6.33
+464,Jain Kirana & General Store,Jhotwara_Murlipura,Kiryana,1,1,0,2,0,2,2,1,3,0,350,4,5.17
+465,Om Laxmi Mobiles,Amer_Periphery,Kiryana,1,1,0,3,0,3,2,0,0,0,75,4,5.5
+466,Agarwal Departmental,Amer_Periphery,Supermarket,1,1,1,4,0,4,2,1,2,0,350,2,6.25
+467,Laxmi Kirana Store,Malviya_Sanganer,Kiryana,1,1,0,2,0,2,2,1,0,0,350,4,5.17
+468,Maa Jwala Entp.,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,1,0,35,4,5.17
+469,Yadav Kirana,Vaishali_Mansarovar,Kiryana,1,1,0,2,0,2,2,1,0,0,150,4,5.17
+470,Jain Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,3,0,75,4,6.33
+471,Abdul Rahman Fruit And Vegetable,Malviya_Sanganer,Kiryana,1,1,0,1,0,1,2,1,2,0,35,1,3.71
+472,Payal Provision Store,C_Scheme,Kiryana,1,1,0,1,0,1,2,1,1,0,75,4,4.83
+473,Govindham Kirana,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,150,1,3.71
+474,Pushpa Kirana,Vaishali_Mansarovar,Kiryana,1,1,0,2,2,4,2,1,2,0,150,4,5.83
+475,Chotiya Kirana And General Store,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,0,0,150,3,4.79
+476,Singhal Kirana Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,2,0,35,4,6.0
+477,Mahesh Kirana & General Store,Jhotwara_Murlipura,Kiryana,1,1,0,3,0,3,2,1,0,0,75,4,5.5
+478,Divyans Parlour,Amer_Periphery,Dairy_Parlour,1,1,3,3,2,5,2,1,3,10,75,4,9.67
+479,Santosh Kirana Store,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,1,0,150,4,5.5
+480,Harinarayan Kirana Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,3,0,75,4,6.0
+481,Balaji Kirana Store,Amer_Periphery,Kiryana,1,1,1,2,0,2,2,1,0,0,35,4,6.33
+482,Lalli Bakery,Amer_Periphery,Bakery,1,1,0,2,2,4,2,1,0,0,75,4,5.83
+483,Pawan Kirana,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,1,0,35,4,4.83
+484,Ragunath General Store,C_Scheme,Kiryana,1,1,0,3,0,3,2,1,3,0,150,2,4.75
+485,Rajesh Store,Malviya_Sanganer,Kiryana,1,1,0,2,0,2,2,1,3,0,75,3,4.79
+486,Dilshad Kirana Store,Amer_Periphery,Kiryana,1,1,0,3,2,5,2,1,2,0,75,2,5.42
+487,Manoj Kirana Store,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,1,0,75,1,4.71
+488,Rubi Kirana Store,Amer_Periphery,Kiryana,1,1,3,2,0,2,2,1,1,10,150,4,8.67
+489,Radhay Tradres,Vaishali_Mansarovar,Kiryana,1,1,0,3,0,3,2,1,0,0,75,3,5.12
+490,Punjabi Chaiwala,Amer_Periphery,Kiryana,1,1,0,2,0,2,2,1,2,0,75,4,5.17
+491,,Amer_Periphery,Kiryana,1,1,0,2,2,4,2,1,2,0,75,4,5.83
+492,Gautam Kirana Store,Amer_Periphery,Kiryana,1,1,0,1,0,1,2,1,0,0,75,3,4.46
+493,Sarita Kirana Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,0,0,35,3,5.62
+495,Shree Ganesh Departmental Store,Amer_Periphery,Supermarket,1,1,0,3,0,3,2,1,1,0,150,3,5.12
+496,R.R Departmental Store,Malviya_Sanganer,Supermarket,1,1,1,1,0,1,2,1,0,0,75,3,5.62
+497,Ravi Agarwal,Amer_Periphery,Kiryana,1,1,0,1,2,3,2,1,1,0,75,4,5.5
+498,Brij Kirana Store,Amer_Periphery,Kiryana,1,1,1,1,0,1,2,1,2,0,35,4,6.0
+499,Shree Ganesham Departmental Store,Amer_Periphery,Supermarket,1,1,0,2,0,2,2,1,1,0,75,4,5.17
+500,Kedar & Company,Amer_Periphery,Kiryana,1,1,0,4,0,4,2,1,1,0,75,4,5.83

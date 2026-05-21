@@ -1,0 +1,9 @@
+Column,Non-Null,Null_%,Avg Chars,Sample Value
+Customer Complaints About Amul Dahi,500,0.0,19,No complaints generally
+Customer Feedback on Amul C&T Specifically,500,0.0,39,Never heard of it
+Suggested Changes / Improvements for Amul,500,0.0,36,Smaller affordable SKU
+Other Feedback for Amul,27,94.6,62,Margin increase needed
+Why Not Stocking C&T,146,70.8,31,No customer demand/enquiry
+Brands Stocked,500,0.0,58,"Amul Masti Dahi (Pouch), Amul Masti Dahi (Cup), Mother Dairy Curd"
+"Brand Ranking (brands stocked, by volume)",500,0.0,78,#1: Amul Masti Dahi
+C&T SKU Mix (80g / 180g / 850g),76,84.8,17,"80g Cup, 180g Cup, 850g Pouch"

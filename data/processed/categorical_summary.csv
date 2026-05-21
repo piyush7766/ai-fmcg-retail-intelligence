@@ -1,0 +1,26 @@
+Column,Uniques,Null_%,Top 3 Values (count)
+Zone,6,0.0,Amer / Periphery / Ajmer Road(296) | Vaishali Nagar / Mansarovar(78) | Malviya Nagar / Jagatpura / Sanganer(68)
+Store Type,5,0.0,Kiryana/General store(407) | Supermarket / Modern trade(44) | Dairy booth / Parlour(34)
+Years Operating,4,0.0,More than 10 years(248) | 5–10 years(113) | 2–5 years(99)
+Has Refrigerator,3,0.0,"Yes, dedicated dairy refrigerator(494) | Yes, shared fridge(4) | No refrigeration(2)"
+Stocks Amul C&T,2,0.0,No(424) | Yes(76)
+Aware of Amul C&T,3,0.0,"No, not aware at all(285) | Yes, aware but not stocking(139) | Yes, I stock it(76)"
+C&T Estimated Packs / Week,4,85.2,nan(426) | Less than 20 packs/week(38) | 50–100 packs/week(20)
+Amul Masti Dahi Packs / Week (est.),4,0.0,50–100 packs/week(221) | 100–200 packs/week(136) | 20–50 packs/week(95)
+Pack Sizes Most in Demand,7,0.0,"80g / 180g (small cup, single use), 400–500g (medium, family meal)(202) | 80g / 180g (small cup, single use)(157) | 80g / 180g (small cup, single use), 400–500g (medium, family meal), 850g (large family pack)(69)"
+Packaging Format Preferred,5,0.0,"Cup/tub (convenient, resealable)(236) | Pouch (cheaper)(185) | No clear preference(69)"
+#1 Selling Dahi Brand at Store,9,0.0,Amul Masti Dahi(362) | Saras Dahi(82) | Amul(26)
+Amul Dahi Sales Change vs 1 Year Ago,4,0.0,Increased slightly(209) | Stayed the same(154) | Increased significantly(89)
+Customers Ask for Amul Dahi by Name,5,0.0,"Yes, often(180) | Yes, sometimes(164) | Rarely(106)"
+Customers Ask for Other Brand by Name,10,93.8,nan(469) | Saras(16) | Saras Dahi(6)
+Margin on Amul Dahi (from price list),2,0.0,"Amul Masti Dahi: 5–10%(424) | Amul C&T: 80g=24%, 180g=30%, 850g=6.8% | Masti: 5–10%(76)"
+Best Trade Promotions Brand,12,0.0,FruBon(242) | Saras(143) | None / No promotions(88)
+Best Rep Visits Brand,15,0.0,FruBon(200) | Saras(159) | Amul(108)
+Best Shelf Life / Freshness Brand,5,0.0,Amul(301) | About the same(102) | Saras(94)
+Biggest 6-Month Growth Brand,10,0.0,Amul Masti Dahi(237) | FruBon Dahi(141) | Saras Dahi(68)
+Trade Promotions Received on Amul Dahi,2,0.0,"No, never(409) | Yes, occasionally(91)"
+Amul Rep Visit Frequency,4,0.0,Monthly(275) | Fortnightly(111) | Rarely (once in 2–3 months)(85)
+Data Source,2,0.0,Synthetic (Shoppee YES + March Sales)(460) | Primary Field Survey(40)
+Branded Display / Fridge Provided By,6,71.6,nan(358) | FruBon provides display box(70) | Saras booth/display(57)
+Preferential Shelf Placement Brand,5,0.0,"Amul (eye level, front of fridge)(433) | Saras (eye level, front of fridge)(59) | Saras (eye level)(4)"
+Primary Reason Customers Choose Competitor,16,0.0,Price(225) | Local pride in Saras(69) | Taste preference(65)
